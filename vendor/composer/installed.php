@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'rekvizitai/comments',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => 'c38c9d28ffaef42d4a2ff347393373a830d7dd05',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '7e81149b79101010b1392d4fcce4ac28a67e2af7',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -92,9 +92,9 @@
             'dev_requirement' => false,
         ),
         'rekvizitai/comments' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => 'c38c9d28ffaef42d4a2ff347393373a830d7dd05',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '7e81149b79101010b1392d4fcce4ac28a67e2af7',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
