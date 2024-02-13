@@ -10,7 +10,8 @@
 </head>
 <body>
 <div class="container">
-    <h1>{{ $data->id }}</h1>
+    <h1>Testable stuff: </h1>
+    <h2>{{ $data->id }}</h2>
 </div>
 </body>
 </html>
