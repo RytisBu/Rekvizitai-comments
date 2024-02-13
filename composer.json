@@ -1,6 +1,5 @@
 {
     "name": "rekvizitai/comments",
-    "description": "Package of rekvizitai comments ui and logic behind the scenes",
     "autoload": {
         "psr-4": {
             "Rekvizitai\\Comments\\": "src/"

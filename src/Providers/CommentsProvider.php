@@ -1,6 +1,6 @@
 <?php
 
-namespace rekvizitai\comments\inspire\Providers;
+namespace Rekvizitai\Comments\Providers;
 
 use Carbon\Laravel\ServiceProvider;
 

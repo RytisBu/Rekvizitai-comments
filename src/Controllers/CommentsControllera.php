@@ -1,11 +1,11 @@
 <?php
 
-namespace Rekvizitai\Comments\Controllers;
+namespace rekvizitai\comments\Controllers;
 
-
+use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Blade;
 
-class CommentsController extends \App\Http\Controllers\Controller
+class CommentsControllera extends \App\Http\Controllers\Controller
 {
     public function displayCommentsUi()
     {
